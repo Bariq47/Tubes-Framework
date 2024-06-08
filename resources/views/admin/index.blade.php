@@ -9,8 +9,8 @@
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-primary">
         <div class="container">
-            <a href="{{ route('home') }}" class="navbar-brand mb-0 h1"><i class="bi-hexagon-fill me-2"></i> Admin Dashboard</a>
-        </div>
+            <a href="{{ url('/homee') }}" class="navbar-brand mb-0 h1"><i class="bi-hexagon-fill me-2"></i> admin Dashboard</a>
+        </nav>
     </nav>
     <div class="container mt-4">
         <h4>Admin Dashboard</h4>
